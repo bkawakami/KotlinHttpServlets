@@ -1,6 +1,6 @@
 # Build project
 
-In your root folder, run te command:
+In your root folder, run the command:
 
 ```bash
 ./gradlew war
